@@ -37,7 +37,7 @@ export default function HomePage() {
               </div>
               <div className='mt-2 flex w-1/3 justify-center'>
                 <a
-                  href='https://github.com/Isaac-Tait/ilovetofish'
+                  href='https://github.com/Isaac-Tait/biblepearls'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
